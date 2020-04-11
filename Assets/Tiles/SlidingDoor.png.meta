@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: d456e23f60c1f6c4dbd68eba9a71ccc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1890361451171832322
+    second: SlidingDoor_0
+  - first:
+      213: 2964736517642784341
+    second: SlidingDoor_1
+  - first:
+      213: 8677232403281074760
+    second: SlidingDoor_2
+  - first:
+      213: -1306541770339517755
+    second: SlidingDoor_3
+  - first:
+      213: -3313895434516938963
+    second: SlidingDoor_4
+  - first:
+      213: 1994785043047754042
+    second: SlidingDoor_5
+  - first:
+      213: 61946030166209457
+    second: SlidingDoor_6
+  - first:
+      213: 5900331448903226145
+    second: SlidingDoor_7
+  - first:
+      213: -5232869775512531189
+    second: SlidingDoor_8
+  - first:
+      213: 7295643458642999540
+    second: SlidingDoor_9
+  - first:
+      213: -8518888595550277253
+    second: SlidingDoor_10
+  - first:
+      213: -5680184486603509365
+    second: SlidingDoor_11
+  - first:
+      213: 7912392702752613193
+    second: SlidingDoor_12
+  - first:
+      213: -6046480515502474686
+    second: SlidingDoor_13
+  - first:
+      213: 7721536375778236394
+    second: SlidingDoor_14
+  - first:
+      213: 4852283792765241493
+    second: SlidingDoor_15
+  - first:
+      213: -7674177038442019093
+    second: SlidingDoor_16
+  - first:
+      213: 7726204976055835703
+    second: SlidingDoor_17
+  - first:
+      213: 3188292456752649866
+    second: SlidingDoor_18
+  - first:
+      213: 308490417642645635
+    second: SlidingDoor_19
+  - first:
+      213: -573192330904926227
+    second: SlidingDoor_20
+  - first:
+      213: 5772247162899638057
+    second: SlidingDoor_21
+  - first:
+      213: 8535000869276415574
+    second: SlidingDoor_22
+  - first:
+      213: 528521311594722199
+    second: SlidingDoor_23
+  - first:
+      213: -2521035982865175918
+    second: SlidingDoor_24
+  - first:
+      213: -7004452753407811932
+    second: SlidingDoor_25
+  - first:
+      213: 7244291259371863265
+    second: SlidingDoor_26
+  - first:
+      213: 9006461021539321729
+    second: SlidingDoor_27
+  - first:
+      213: 6487370660202802637
+    second: SlidingDoor_28
+  - first:
+      213: 3140069406361006890
+    second: SlidingDoor_29
+  - first:
+      213: 67762511450910353
+    second: SlidingDoor_30
+  - first:
+      213: 5308642690798403145
+    second: SlidingDoor_31
+  - first:
+      213: 593791069450577147
+    second: SlidingDoor_32
+  - first:
+      213: 7059660925781452227
+    second: SlidingDoor_33
+  - first:
+      213: 6671786887081090476
+    second: SlidingDoor_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlidingDoor_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0daf2300be1f14f86ae9cd50193128
+      internalID: 1890361451171832322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38247cb332d0ca448aef9440ab786fd
+      internalID: 2964736517642784341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c36abac0ee28ee44a09d979871ded91
+      internalID: 8677232403281074760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d42ce4b54475c14f983806260460b54
+      internalID: -1306541770339517755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114893f47c3583641a0c38b91d946d9d
+      internalID: -3313895434516938963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d3ac5d7617314dad702f8f7546eba
+      internalID: 1994785043047754042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b27999ece312ea439d9b5acbb0c4f34
+      internalID: 61946030166209457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d22e193d677384ca4c03d7d62eb82e
+      internalID: 5900331448903226145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b27b181b484f4c832f5668d884b0f
+      internalID: -5232869775512531189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d577f3625bf4d74fa2d9bef32626b06
+      internalID: 7295643458642999540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f352a78d43eb4d89f6463b81637b7
+      internalID: -8518888595550277253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6623e657e3f6d44499a8d1e9c8033dd
+      internalID: -5680184486603509365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6939f7d4a04d6419ae95fed24f47d3
+      internalID: 7912392702752613193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1329cfa598d7dc42ba0463e6e219662
+      internalID: -6046480515502474686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab2ec507e1b084b95314949b78efa3
+      internalID: 7721536375778236394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0262883e09f5104d99a7e406750bfcb
+      internalID: 4852283792765241493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5a3c90604ce004ea256f9844f61518
+      internalID: -7674177038442019093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20043c4df4169d048b1ff7bf1b0414c3
+      internalID: 7726204976055835703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2937e73bd9e044cbe002ae802c4ae1
+      internalID: 3188292456752649866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1793c6d224f66f46964990881774509
+      internalID: 308490417642645635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 64
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452c918ffa2c0e549af10d67327b1065
+      internalID: -573192330904926227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8794497a8cd1a42a222f9fd8e8ee70
+      internalID: 5772247162899638057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def584e089a50374a80ba0cf8db00ae3
+      internalID: 8535000869276415574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61a6a75bc269f949bead25375f71dc4
+      internalID: 528521311594722199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303149a0ca01a354f8e0867eaf8e7d6f
+      internalID: -2521035982865175918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa693da8c8f0fc4086a3f25ebbb6c53
+      internalID: -7004452753407811932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788867ce978e8384590f044501a630f4
+      internalID: 7244291259371863265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e661ec5de958da42a3f21071cc1d787
+      internalID: 9006461021539321729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca4291ee9773a948a7c0fb24fc43e23
+      internalID: 6487370660202802637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c7c84fe0bd63340979b71af81580b5
+      internalID: 3140069406361006890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4be294a8f4df54469052bff0db43475
+      internalID: 67762511450910353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5153dbc7c3827847ad8c3bde9311cbb
+      internalID: 5308642690798403145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d9f3d21b42b374ab11e3ffdc94dd07
+      internalID: 593791069450577147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227432fa9555924e9a35d037f572767
+      internalID: 7059660925781452227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlidingDoor_34
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41bd103ae91b104ea90447720a0bf73
+      internalID: 6671786887081090476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
