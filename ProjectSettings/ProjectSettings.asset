@@ -31,7 +31,7 @@ PlayerSettings:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1
+    width: 0.99999994
     height: 1
   m_SplashScreenBackgroundPortraitUvs:
     serializedVersion: 2
@@ -511,7 +511,7 @@ PlayerSettings:
   ps4attribEyeToEyeDistanceSettingVR: 0
   ps4IncludedModules: []
   monoEnv: 
-  splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: 7dc649d67a7797d4cbe6c22544af1d75,
+  splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: bdc528a9f2e2fcb4d91db6b182c7deeb,
     type: 3}
   splashScreenBackgroundSourcePortrait: {fileID: 0}
   blurSplashScreenBackground: 1
