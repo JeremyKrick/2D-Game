@@ -7,11 +7,8 @@ Description: A top-down shooter to control the underground llama population. The
 3. Run the .exe
 
 ## Controls:
-WASD for movement.
-
-Mouse to point.
-
-Left mouse button to shoot.
-
-Esc button to pause.
+* WASD for movement.
+* Mouse to point.
+* Left mouse button to shoot.
+* Esc button to pause.
 
